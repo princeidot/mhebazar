@@ -1,0 +1,5 @@
+User-agent: *
+allow: /
+
+
+sitemap: https://www.mhebazar.in/sitemap_index.xml
